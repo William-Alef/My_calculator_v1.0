@@ -1,4 +1,4 @@
-# My calculator V 1.0
+# My calculator v1.0
 
 def calculate():
 
