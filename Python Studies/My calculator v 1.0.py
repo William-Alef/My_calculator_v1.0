@@ -44,7 +44,7 @@ def calculate():
         r = (n1 // n2)
         print('{} // {} = {}'.format(n1, n2, r))
 
-    # Remainder of the division
+    # The remainder of the division
     elif op == '%':
         r = (n1 % n2)
         print('{} % {} = {}'.format(n1, n2, r))
